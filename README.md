@@ -42,7 +42,7 @@ This project is divided into several stages, each corresponding to a script prov
 ## Please refer to the corresponding script in the scripts folder for detailed usage instructions for each stage.
 
 ### Acknowledgments
-TensorflowTTS
-YouTubeTranscriptApi
-WhisperModel
-Gradio
+* TensorflowTTS
+* YouTubeTranscriptApi
+* WhisperModel
+* Gradio
